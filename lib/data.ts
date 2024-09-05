@@ -67,7 +67,7 @@ export const projectsData = [
   },
   {
     title: "Klass Payment App",
-    linkes:"https://github.com/apurba-striker/dall-e-repository",
+    linkes:"https://github.com/apurba-striker/klasspayment",
     description:
       "This project aims to replicate the basic functionality of the payment app",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux", "NodeJs","ExpressJs"],
@@ -76,7 +76,7 @@ export const projectsData = [
   },
   {
     title: "Stack App",
-    linkes:"https://github.com/apurba-striker/dall-e-repository",
+    linkes:"https://github.com/apurba-striker/stack-clone-nextjs",
     description:
       "Real-time chat and messaging Channel-based communication Direct messaging between users File and media sharing Customizable notifications",
     tags: ["React", "MongodB", "ExpressJs", "Tailwind CSS" , "AWS Cloud Services" , "NodeJs"],
